@@ -47,13 +47,13 @@ main{
   justify-content: space-between;
   align-items: center;
   margin-block: 1em;
+  gap: 1em;
 }
 .rating-img{
   width: 30%;
 }
 .rating a{
   color: #007185;
-  font-size: 1.1rem;
   cursor: pointer;
   text-decoration: none;
 }
